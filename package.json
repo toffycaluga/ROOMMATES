@@ -1,0 +1,21 @@
+{
+    "name": "clase_m6c9",
+    "version": "1.0.0",
+    "description": "evaluacion modulo 6",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Toffy Caluga",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.26.0",
+        "express": "^4.17.3",
+        "moment": "^2.29.1",
+        "nodemailer": "^6.7.2",
+        "nodemon": "^2.0.15",
+        "uuid": "^8.3.2"
+    }
+}
